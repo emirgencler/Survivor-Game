@@ -28,8 +28,6 @@ This approach demonstrates how **statistical analysis can replace manual playtes
 
 The project combines **game development** with **data science**, showing that well-designed systems can be validated mathematically before players ever see them.
 
----
-
 
 ---
 
