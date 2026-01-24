@@ -14,6 +14,25 @@ This project demonstrates:
 
 ---
 
+## 💡 Why This Project?
+
+I built this survival game from scratch to explore a fundamental game design question: 
+**"How can we validate game balance with data instead of gut feeling?"**
+
+Rather than spending weeks playtesting different ability combinations, I implemented a Monte Carlo simulation framework that:
+- Tests thousands of random character builds automatically
+- Compares survival rates across all enemy types and difficulties
+- Uses ablation methodology to isolate the impact of each game mechanic
+
+This approach demonstrates how **statistical analysis can replace manual playtesting** during development—a technique used by AAA studios for balancing card games, roguelikes, and procedural content.
+
+The project combines **game development** with **data science**, showing that well-designed systems can be validated mathematically before players ever see them.
+
+---
+
+
+---
+
 ## 🗺️ Game Features
 
 ### Locations
