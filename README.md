@@ -2,7 +2,7 @@
 
 A Java-based survival game with integrated Monte Carlo simulation for combat balance analysis.
 
-## 🎮 Project Overview
+## Project Overview
 
 This project demonstrates:
 - **Object-oriented game design** with location-based progression system
@@ -14,7 +14,7 @@ This project demonstrates:
 
 ---
 
-## 💡 Why This Project?
+##  Why This Project?
 
 I built this survival game from scratch to explore a fundamental game design question: 
 **"How can we validate game balance with data instead of gut feeling?"**
@@ -31,7 +31,7 @@ The project combines **game development** with **data science**, showing that we
 
 ---
 
-## 🗺️ Game Features
+## Game Features
 
 ### Locations
 - **Safe House** - Starting area
@@ -65,7 +65,7 @@ Difficulty increases primarily through enemy count rather than individual stats,
 
 ---
 
-## 🔬 Combat Balance Analysis
+## Combat Balance Analysis
 
 This repository includes `Analysis.java` - an experimental module that evaluates **ability impact on survival probability** using Monte Carlo simulation.
 
@@ -125,7 +125,7 @@ Monte Carlo simulation can objectively validate balance assumptions before exten
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Play the Game
 
@@ -150,7 +150,7 @@ Parameters: `[buildSamples] [trialsPerBuild] [randomSeed]`
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 - **Monte Carlo methods** for game balance testing
 - **Ablation studies** to isolate feature impact
@@ -160,12 +160,12 @@ Parameters: `[buildSamples] [trialsPerBuild] [randomSeed]`
 
 ---
 
-## 📝 License
+## License
 
 MIT License - See [LICENSE](LICENSE) file for details
 
 ---
 
-## 🔗 Contact
+## Contact
 
 Feel free to reach out for questions about the methodology or implementation!
