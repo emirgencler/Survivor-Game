@@ -67,7 +67,8 @@ Players allocate 30 points across:
 - **Damage**: 1 damage = 3 points
 - **Abilities** (unlocked with 10+ leftover points):
   - `DamageDealer`: +10% Health
-  - `Evolotion`: +10% Damage
+  -  `Evolotion` (simplified evolution mechanic): +10% Damage
+
 
 ### Results Summary
 
@@ -96,10 +97,7 @@ Ability buffs produce marginal survival changes (typically ±2%). This indicates
 - **Combat outcomes are sufficiently stable** across simulations to reward planning over pure randomness.
 
 
-The analysis validates that survival depends on **resource management and build optimization** rather than ability selection alone.
-
-
-This approach demonstrates how statistical simulation can guide balancing decisions in game design without relying solely on player intuition.
+The analysis validates that survival depends on **resource management and build optimization** rather than ability selection alone. This approach demonstrates how statistical simulation can guide balancing decisions in game design without relying solely on player intuition.
 
 
 ---
