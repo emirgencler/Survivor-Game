@@ -97,6 +97,8 @@ Ability buffs produce marginal survival changes (typically ±2%). This indicates
 
 
 The analysis validates that survival depends on **resource management and build optimization** rather than ability selection alone.
+
+
 This approach demonstrates how statistical simulation can guide balancing decisions in game design without relying solely on player intuition.
 
 
