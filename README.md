@@ -80,9 +80,9 @@ The analysis implements an ablation study:
 ### Character Build System
 
 Players allocate 30 points across:
-- **Health**: 1 point = 1 HP
-- **Damage**: 1 damage = 3 points
-- **Abilities** (unlocked with 10+ leftover points):
+- Health: 1 point = 1 HP
+- Damage: 1 damage = 3 points
+- Abilities (unlocked with 10+ leftover points):
   - `DamageDealer`: +10% Health
   -  `Evolution`: +10% Damage
 
