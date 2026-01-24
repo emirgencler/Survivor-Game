@@ -109,18 +109,12 @@ Players allocate 30 points across:
 
 ### Interpretation
 
-Ability buffs produce marginal survival changes (typically ±2%). This indicates that
-**core mechanics are well-balanced**, with no single ability dominating outcomes, and that
-enemy count is the primary driver of difficulty rather than ability selection.
 
-Combat outcomes are sufficiently stable across simulations to reward planning over luck.
-The observed ±2% variance confirms the game achieves its design goal: **survival depends on
-strategic build optimization and resource management**, not random ability selection.
-Players succeed through skillful 30-point stat allocation rather than lucky ability combinations.
-
-This result validates the intended combat design—difficulty emerges from enemy scaling and
-resource constraints rather than overpowered abilities. The study demonstrates how
-Monte Carlo simulation can objectively validate balance assumptions before extensive playtesting.
+Ability buffs result in only marginal changes in survival probability (typically within ±2%).
+This indicates that the game’s core mechanics are well-balanced, with no single ability dominating outcomes.
+Difficulty emerges primarily from enemy count scaling rather than ability selection, ensuring that survival depends on strategic stat allocation and resource management rather than luck.
+The stability of results across simulations confirms that combat outcomes reward planning over randomness.
+Overall, the analysis validates the intended design goal: a survival system where balance is driven by mechanics, not buffs, and where Monte Carlo simulation can replace extensive manual playtesting during development.
 
 
 ---
